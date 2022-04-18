@@ -232,6 +232,7 @@
 
 ## Reference
 
+- [LIVE React Query와 상태관리 :: 2월 우아한테크세미나](https://www.youtube.com/watch?v=MArE6Hy371c)
 - [React Query 기본](https://thinkforthink.tistory.com/340?category=864727)
 - [stale-while-revalidate](https://jooonho.com/web/2021-05-16-stale-while-revalidate/)
 - [S.W.R = Stale-While-Revalidate](https://iborymagic.tistory.com/135)
